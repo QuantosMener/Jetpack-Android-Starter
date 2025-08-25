@@ -8,6 +8,7 @@
     <a href="https://github.com/atick-faisal/Jetpack-Android-Starter/contributors"><img src="https://img.shields.io/github/contributors/atick-faisal/Jetpack-Android-Starter?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
     <img src="https://img.shields.io/github/actions/workflow/status/atick-faisal/Jetpack-Android-Starter/ci.yml?style=for-the-badge&logo=android&labelColor=363a4f"/>
 </p>
+![Android CI](https://github.com/QuantosMener/Develop/actions/workflows/android-ci.yml/badge.svg)
 
 # 🚀 Jetpack Android Starter
 
